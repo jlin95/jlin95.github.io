@@ -1,2 +1,1 @@
-My website hosted on Github Pages - jlin95.github.io
-
+Version 2 of the site. 
